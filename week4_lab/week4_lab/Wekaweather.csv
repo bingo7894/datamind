@@ -1,0 +1,15 @@
+outlook,temperature,humidity,windy,play
+overcast,0.904762,0.677419,FALSE,yes
+overcast,0,0,TRUE,yes
+overcast,0.380952,0.806452,TRUE,yes
+overcast,0.809524,0.322581,FALSE,yes
+rainy,0.285714,1,FALSE,yes
+rainy,0.190476,0.483871,FALSE,yes
+rainy,0.047619,0.16129,TRUE,no
+rainy,0.52381,0.483871,FALSE,yes
+rainy,0.333333,0.806452,TRUE,no
+sunny,1,0.645161,FALSE,no
+sunny,0.761905,0.806452,TRUE,no
+sunny,0.380952,0.967742,FALSE,no
+sunny,0.238095,0.16129,FALSE,yes
+sunny,0.52381,0.16129,TRUE,yes
